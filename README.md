@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AnjaliDevrari
-- 👀 I’m interested in Data Science and AI field
-- 🌱 I’m currently working as an Associate Analyst at BT group
-- 😉I am currently learning github...
-- 📫How to reach me -anjalidevrari@gmail.com
+- 👀 Interested in Data Science and AI field
+- 🌱 Currently working as an Associate Analyst at BT group
+- 😉 I am currently learning github...
+- 📫 How to reach me -anjalidevrari@gmail.com
 
 
 <!---
