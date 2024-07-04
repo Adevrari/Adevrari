@@ -1,11 +1,5 @@
-- 👋 Hi, I’m @AnjaliDevrari
-- 👀 Interested in Data Science and AI field
-- 🌱 Currently working as an Associate Analyst at BT group
-- 😉 I am currently learning github...
-- 📫 How to reach me -anjalidevrari@gmail.com
-
-
-<!---
-Adevrari/Adevrari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I worked on machine learning project
+<br>
+Problem statement
+<br>
+You are a part of the one of the biggest banks in the world. One day, you recieved some data from a department that needs some help on with figuring out to whom they should provide the loan. Use machine learning technique to make sure you are getting the correct predictions for whom to give loan or not
